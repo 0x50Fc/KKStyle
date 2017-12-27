@@ -1,0 +1,6 @@
+framework module KKStyle {
+  umbrella header "KKStyle.h"
+
+  export *
+  module * { export * }
+}
